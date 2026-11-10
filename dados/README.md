@@ -35,3 +35,15 @@ Após os procedimentos, a base passou de 541.909 para 524.878 registros.
 Também foi criada uma nova coluna chamada TotalPrice, calculada pela multiplicação da quantidade vendida pelo preço unitário. Essa coluna permite analisar o faturamento dos produtos.
 
 O faturamento total calculado para os registros mantidos foi de aproximadamente £ 10.642.110,80.
+
+### 4. Análise Exploratória dos Dados
+
+Após a preparação da base, foram realizadas análises para identificar os produtos com maior faturamento e os países com maior participação nas vendas.
+
+Na análise dos produtos, o item DOTCOM POSTAGE apresentou o maior faturamento, com aproximadamente £ 206.248,77, seguido pelo REGENCY CAKESTAND 3 TIER, com £ 174.156,54.
+
+Em relação aos países, o Reino Unido apresentou o maior faturamento, com aproximadamente £ 9.001.744,09. Esse resultado representa cerca de 84,6% do faturamento total da base analisada.
+
+Os resultados mostram uma concentração significativa das vendas no mercado britânico. Também foi possível identificar que alguns registros representam serviços ou cobranças, como postagem, e não necessariamente produtos físicos.
+
+Para facilitar a interpretação dos resultados, foram desenvolvidos gráficos que apresentam os produtos e países com maior faturamento.
