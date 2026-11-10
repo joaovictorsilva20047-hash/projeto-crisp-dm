@@ -58,12 +58,12 @@ Por outro lado, fevereiro de 2011 apresentou o menor faturamento entre os meses 
 
 Os resultados indicam um crescimento do faturamento nos meses que antecederam novembro de 2011, seguido de uma redução em dezembro. Esse comportamento pode estar relacionado à sazonalidade das compras, embora sejam necessárias outras análises para confirmar essa hipótese.
 
-### 6. Quantidade de Compras por País
+### 6. Análise da Quantidade de Compras por País e por Mês
 
-Também foi analisada a quantidade de compras realizadas em cada país, considerando o número de notas fiscais distintas.
+Também foi realizada uma análise da quantidade de compras, considerando o número de notas fiscais registradas na base de dados.
 
-O Reino Unido apresentou o maior número de compras, com 18.019 notas fiscais. Em seguida, aparecem Alemanha, com 457, França, com 392, e EIRE, com 288.
+Na análise por país, o Reino Unido apresentou a maior quantidade de compras, com 18.019 notas fiscais. Em seguida, aparecem Alemanha, com 457, e França, com 392. Esse resultado reforça a concentração das transações no mercado britânico.
 
-Os resultados mostram uma grande concentração das compras no Reino Unido. Essa informação complementa a análise de faturamento, pois permite observar não apenas o valor vendido em cada país, mas também a quantidade de transações realizadas.
+Na análise mensal, novembro de 2011 apresentou a maior quantidade de compras, totalizando 2.769 notas fiscais. Outubro ficou em segundo lugar, com 2.040, enquanto dezembro apresentou a menor quantidade, com 819 compras.
 
-Para facilitar a comparação entre os países, foi elaborado um gráfico com os dez países que apresentaram o maior número de compras.
+Esses resultados ajudam a identificar os principais mercados da loja e os períodos de maior movimentação. As informações também podem contribuir para o planejamento de estoque e para futuras estratégias comerciais.
