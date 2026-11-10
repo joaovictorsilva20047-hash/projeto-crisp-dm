@@ -73,3 +73,11 @@ Esses resultados ajudam a identificar os principais mercados da loja e os perío
 Foi realizada uma análise para identificar a quantidade de clientes únicos presentes na base de dados após a etapa de preparação.
 
 O resultado mostrou que existem 4.338 clientes identificados. Essa informação é importante para compreender o tamanho da carteira de clientes da loja e pode servir como base para análises futuras sobre o comportamento de compra e a frequência das transações.
+
+### 8. Análise dos Clientes com Maior Valor de Compras
+
+Nesta etapa, foi realizada uma análise para identificar os dez clientes que apresentaram os maiores valores acumulados em compras.
+
+O cliente de identificação 14646 ficou em primeiro lugar, com aproximadamente £ 280.206,02 em compras. Em segundo lugar ficou o cliente 18102, com £ 259.657,30, seguido pelo cliente 17450, com £ 194.390,79.
+
+Os resultados mostram que alguns clientes possuem uma participação expressiva no valor total das vendas. Essa informação pode ajudar a loja a identificar consumidores importantes e desenvolver estratégias para melhorar o relacionamento e a fidelização dos clientes.
