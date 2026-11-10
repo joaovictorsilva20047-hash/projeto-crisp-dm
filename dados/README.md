@@ -47,3 +47,13 @@ Em relação aos países, o Reino Unido apresentou o maior faturamento, com apro
 Os resultados mostram uma concentração significativa das vendas no mercado britânico. Também foi possível identificar que alguns registros representam serviços ou cobranças, como postagem, e não necessariamente produtos físicos.
 
 Para facilitar a interpretação dos resultados, foram desenvolvidos gráficos que apresentam os produtos e países com maior faturamento.
+
+### 5. Análise do Faturamento Mensal
+
+Foi realizada uma análise do faturamento mensal da loja, utilizando a coluna InvoiceDate para agrupar as vendas por mês e ano.
+
+Os resultados mostraram que novembro de 2011 foi o período de maior faturamento, alcançando aproximadamente £ 1.503.866,78. Outubro e setembro também apresentaram resultados expressivos, com faturamentos de £ 1.151.263,73 e £ 1.056.435,19, respectivamente.
+
+Por outro lado, fevereiro de 2011 apresentou o menor faturamento entre os meses analisados, com aproximadamente £ 522.545,56.
+
+Os resultados indicam um crescimento do faturamento nos meses que antecederam novembro de 2011, seguido de uma redução em dezembro. Esse comportamento pode estar relacionado à sazonalidade das compras, embora sejam necessárias outras análises para confirmar essa hipótese.
