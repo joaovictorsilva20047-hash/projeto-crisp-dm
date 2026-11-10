@@ -81,3 +81,13 @@ Nesta etapa, foi realizada uma análise para identificar os dez clientes que apr
 O cliente de identificação 14646 ficou em primeiro lugar, com aproximadamente £ 280.206,02 em compras. Em segundo lugar ficou o cliente 18102, com £ 259.657,30, seguido pelo cliente 17450, com £ 194.390,79.
 
 Os resultados mostram que alguns clientes possuem uma participação expressiva no valor total das vendas. Essa informação pode ajudar a loja a identificar consumidores importantes e desenvolver estratégias para melhorar o relacionamento e a fidelização dos clientes.
+
+### 9. Avaliação da Qualidade dos Dados
+
+Na avaliação da base tratada, foi realizada uma verificação para identificar possíveis valores ausentes nas colunas.
+
+O resultado mostrou que a coluna CustomerID possui 132.186 registros sem identificação de cliente. As demais colunas não apresentaram valores ausentes.
+
+Esses registros não foram excluídos, pois ainda podem contribuir para as análises de faturamento por produto, país e mês. Entretanto, nas análises individuais dos clientes, foram considerados apenas os registros que possuem identificação.
+
+Essa verificação foi importante para compreender as limitações da base e evitar interpretações incorretas dos resultados.
