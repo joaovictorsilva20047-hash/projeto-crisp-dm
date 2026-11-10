@@ -91,3 +91,5 @@ O resultado mostrou que a coluna CustomerID possui 132.186 registros sem identif
 Esses registros não foram excluídos, pois ainda podem contribuir para as análises de faturamento por produto, país e mês. Entretanto, nas análises individuais dos clientes, foram considerados apenas os registros que possuem identificação.
 
 Essa verificação foi importante para compreender as limitações da base e evitar interpretações incorretas dos resultados.
+
+Além disso, foi calculado o percentual de registros sem identificação de cliente. O resultado foi de 25,18% da base tratada. Isso demonstra que uma parte considerável das compras não pode ser associada a um cliente específico, sendo uma limitação para análises individuais de comportamento e frequência de compra.
