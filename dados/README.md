@@ -67,3 +67,9 @@ Na análise por país, o Reino Unido apresentou a maior quantidade de compras, c
 Na análise mensal, novembro de 2011 apresentou a maior quantidade de compras, totalizando 2.769 notas fiscais. Outubro ficou em segundo lugar, com 2.040, enquanto dezembro apresentou a menor quantidade, com 819 compras.
 
 Esses resultados ajudam a identificar os principais mercados da loja e os períodos de maior movimentação. As informações também podem contribuir para o planejamento de estoque e para futuras estratégias comerciais.
+
+### 7. Análise da Quantidade de Clientes
+
+Foi realizada uma análise para identificar a quantidade de clientes únicos presentes na base de dados após a etapa de preparação.
+
+O resultado mostrou que existem 4.338 clientes identificados. Essa informação é importante para compreender o tamanho da carteira de clientes da loja e pode servir como base para análises futuras sobre o comportamento de compra e a frequência das transações.
