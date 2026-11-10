@@ -93,3 +93,23 @@ Esses registros não foram excluídos, pois ainda podem contribuir para as anál
 Essa verificação foi importante para compreender as limitações da base e evitar interpretações incorretas dos resultados.
 
 Além disso, foi calculado o percentual de registros sem identificação de cliente. O resultado foi de 25,18% da base tratada. Isso demonstra que uma parte considerável das compras não pode ser associada a um cliente específico, sendo uma limitação para análises individuais de comportamento e frequência de compra.
+
+### 10. Resumo da Base de Dados Tratada
+
+Ao finalizar os procedimentos de preparação, a base de dados ficou com 524.878 registros e 10 colunas. Inicialmente, o arquivo possuía 541.909 registros e 8 colunas.
+
+A análise abrange o período de 1º de dezembro de 2010 até 9 de dezembro de 2011. Durante o tratamento, foram removidas duplicatas e registros com quantidade ou preço inválido. Também foram criadas duas novas colunas: TotalPrice, que representa o valor de cada registro de venda, e AnoMes, utilizada para agrupar as vendas por mês.
+
+Com isso, a base ficou organizada para permitir as análises realizadas ao longo do projeto.
+
+## 11. Conclusão
+
+O desenvolvimento deste projeto permitiu analisar os dados de vendas de uma loja virtual utilizando as etapas da metodologia CRISP-DM.
+
+Durante o trabalho, foi possível identificar os produtos com maior faturamento, os países com maior quantidade de compras, os meses de maior movimentação e os clientes com maiores valores acumulados em compras.
+
+Entre os resultados encontrados, o Reino Unido apresentou o maior faturamento, com aproximadamente £ 9 milhões, representando cerca de 84,6% do total analisado. Novembro de 2011 foi o mês com maior faturamento e também com a maior quantidade de compras. Além disso, o cliente 14646 apresentou o maior valor acumulado em compras, aproximadamente £ 280 mil.
+
+A preparação dos dados também foi uma etapa importante, pois permitiu remover registros duplicados e valores inválidos. Entretanto, foi identificado que 25,18% dos registros não possuem identificação de cliente, o que representa uma limitação para determinadas análises.
+
+De modo geral, o projeto demonstrou como a análise de dados pode ajudar uma empresa a compreender melhor suas vendas, identificar oportunidades e apoiar decisões comerciais. A experiência também possibilitou aplicar conhecimentos básicos de Python, Pandas e visualização de dados.
